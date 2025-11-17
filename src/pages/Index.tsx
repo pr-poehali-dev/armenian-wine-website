@@ -274,8 +274,8 @@ const Index = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-2">
-                <p>Армения, Арагацотнская область</p>
-                <p className="text-muted-foreground">село Оганаван, ул. Виноградная, 12</p>
+                <p>Нагорно Карабахская Республика</p>
+                <p className="text-muted-foreground">село Сардарашен</p>
               </CardContent>
             </Card>
 
@@ -283,11 +283,11 @@ const Index = () => {
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
                   <Icon name="Store" className="text-primary" />
-                  Винный бутик в Москве
+                  Винный бутик в Ереване
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-2">
-                <p>г. Москва, ул. Арбат, 25</p>
+                <p>г. Ереван, ул. Северный проспект 44</p>
                 <p className="text-muted-foreground">Ежедневно с 10:00 до 22:00</p>
               </CardContent>
             </Card>
@@ -300,7 +300,7 @@ const Index = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-2">
-                <p>+7 (495) 123-45-67</p>
+                <p>+374 97 77 55 84</p>
                 <p className="text-muted-foreground">Пн-Вс: 9:00 - 21:00</p>
               </CardContent>
             </Card>
@@ -313,7 +313,7 @@ const Index = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-2">
-                <p>info@armenianwine.ru</p>
+                <p>tigranbabayan2008g@gmail.com</p>
                 <p className="text-muted-foreground">Ответим в течение 24 часов</p>
               </CardContent>
             </Card>
